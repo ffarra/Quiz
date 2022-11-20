@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 import {useReducer} from "react";
 import {questions} from "./data/questions";
